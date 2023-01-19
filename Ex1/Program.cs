@@ -23,4 +23,4 @@ else
     min = b;
 }
 Console.WriteLine("Большее число " + max);
-Console.WriteLine("Меньшее число " + min);
+Console.WriteLine("Меньшее число  " + min);
