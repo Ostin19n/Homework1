@@ -2,9 +2,9 @@
 // a = 5; b = 7 -> max = 7
 // a = 2 b = 10 -> max = 10 
 // a = -9 b = -3 -> max = -3
-Console.Write("Введите число ");
+Console.Write("Введите число 1: ");
 int a = int.Parse(Console.ReadLine());
-Console.Write("Введите число ");
+Console.Write("Введите число 2: ");
 int b = int.Parse(Console.ReadLine());
 int max, min;
 if (a > b)
